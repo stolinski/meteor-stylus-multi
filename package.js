@@ -16,7 +16,7 @@ Package._transitional_registerBuildPlugin({
     jeet: '6.1.2',
     rupture: '0.6.1',
     axis: '0.3.0',
-    'lost-grid': '1.1.1'
+    'lost-grid': '5.1.2'
   }
 });
 
