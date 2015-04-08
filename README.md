@@ -17,7 +17,7 @@ Nib is a popular Stylus package that adds many helpful, basic, utility mixins.
 
 An autoprefixer plugin for Stylus. Will also remove unnecessary prefixes if there is widespread browser support.
 
-### [Lost](https://github.com/corysimmons/lost) 1.1.1
+### [Lost](https://github.com/corysimmons/lost) 5.1.2
 
 SCSS or Stylus fractional grid system built with calc(), based on Bootstrap, with a modified Jeet fallback.
 
